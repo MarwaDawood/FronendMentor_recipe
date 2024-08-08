@@ -163,6 +163,7 @@ h1 {
     text-align: left;
     margin: 3% 0 5% 5%;
     padding-bottom: 5%;
+    
 
 }
 
@@ -195,22 +196,21 @@ h1 {
 .nutrition td,th {
     padding: 10px;
     text-align: left;
-    border-bottom: 1px solid hsl(30, 18%, 87%);
-    
+    border-bottom: 1px solid hsl(30, 18%, 87%); 
 }
 
-.fat {
+
+
+.nutrition tr.fat td,
+.nutrition tr.fat th {
     border-bottom: none;
 }
-
-
 
 
 .nutrition th {
     color: hsl(30, 10%, 34%);
     font-weight: 400;
     padding-left: 5%;
-
 }
 
 
