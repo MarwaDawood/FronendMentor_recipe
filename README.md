@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution] (https://github.com/MarwaDawood/FronendMentor_recipe)
-- Live Site URL: [Live site] (https://frontendmentor-challengesrecipe.netlify.app/)
+- Solution URL: [Solution](https://github.com/MarwaDawood/FronendMentor_recipe)
+- Live Site URL: [Live site](https://frontendmentor-challengesrecipe.netlify.app/)
 
 ## My process
 
@@ -35,6 +35,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Marwa Dawood ](https://marwadawood.netlify.app/#)
+- Website - [Marwa Dawood](https://marwadawood.netlify.app/#)
 - Frontend Mentor - [Marwa Dawood](https://www.frontendmentor.io/profile/MarwaDawood)
 
